@@ -6,6 +6,7 @@ import Footer from './components/Footer';
 function App() {
   return (
     <>
+      <div id="perspective-bar"></div>
       <CharacterEditor />
       <Footer />
     </>
